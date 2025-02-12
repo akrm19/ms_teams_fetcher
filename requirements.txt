@@ -1,1 +1,1 @@
-azure-identity=1.19.0
+azure-identity==1.19.0

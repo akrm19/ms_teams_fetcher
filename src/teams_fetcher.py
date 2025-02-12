@@ -1,6 +1,6 @@
 import json, requests
 
-from src.credentials import default_credential, get_access_token
+from credentials import default_credential, get_access_token
 
 def get_auth_headers(access_token: str = None):
     if access_token is None:
